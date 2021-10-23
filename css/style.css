@@ -358,6 +358,7 @@ ul.social-media {
     padding: 0px;
 }
 ul.social-media li a {
+    /* display: inline-block; */
     display: inline-block;
     color: #333;
     transition: all .5s;
